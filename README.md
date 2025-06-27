@@ -1,22 +1,22 @@
  -**Hi, I'm Aiswariya Pradhan 👋**
 
-** 🎓B.Tech 3rd Year|| Computer Science Student||**
+ 🎓B.Tech 3rd Year|| Computer Science Student||
 
-🗄️**Glad to see you here!**<br> 
+🗄**Glad to see you here!!** <br> 
 I am a 3rd year B.Tech student speciallzing in Computer Science and Enginnering. I have a keen interest in web development and programming, and i am currently building my skills in both frontend and backend technologies. 
 
 **Taking about my Personal Stuffs:-**
-- 👀**Interest:**
-Web Developmwnt using java full stack.<br>
- Always curious to learn and grow in the field of Computer Science.
+- 👀**Interest:** <br>
+   -Web Developmwnt using java full stack.<br>
+--Always curious to learn and grow in the field of Computer Science.
   
-- 🌱 **I’m currently learning:**- 📌 Java Full-stack.
+- 🌱 **I’m currently learning:**- <br> Java Full-stack.
 
-- 👯 **I’m looking to collaborate on:** 🚀 i'm looking to collaborate on Web Development projects and innovative tech ideas.
+- 👯 **I’m looking to collaborate on:** <br> i'm looking to collaborate on Web Development projects and innovative tech ideas.
   
-- 📫 **Reach me:** Email:pradhanaiswariya1@gmail.com
+- 📫 **Reach me:** <br>Email:pradhanaiswariya1@gmail.com
   
-- ⚡**Fun fact:** I Love Tech and Tech Love Me!😁
+- ⚡**Fun fact:** <br>I Love Tech and Tech Love Me!😁
 
   
   ## 🏆 GitHub Trophies
