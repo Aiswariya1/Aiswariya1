@@ -31,7 +31,7 @@ Java Full-stack Development.
   
 📫 **Reach me:-**
 ---------------------------------------------
-Email:pradhanaiswariya1@gmail.com
+Email:- pradhanaiswariya1@gmail.com
   
  ⚡**Fun fact:-**
  ---------------------------------------------------------------
