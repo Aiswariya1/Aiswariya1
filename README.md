@@ -12,7 +12,7 @@
  I am a 3rd year B.Tech student specializing in Computer Science and Engineering (CSE). I have a keen interest in web development and programming , and I am currently building my skills in both frontend and backend technologies . Continuous learning and improving problem-solving skills 🚀.      
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Taking about my Personal Stuffs:-**
+**📝Taking about my Personal Stuffs:-**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  👀**Interest:-**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
