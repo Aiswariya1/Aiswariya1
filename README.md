@@ -1,31 +1,45 @@
- -**Hi, I'm Aiswariya Pradhan 👋**
+   🔗-**Hi, I'm Aiswariya Pradhan**👋
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 🎓B.Tech 3rd Year|| Computer Science Student|| <br>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Meta&pause=1000&color=3616BE&width=435&lines=Learning+Web+Development%F0%9F%8C%90;Passionate+about+Coding%F0%9F%92%BB" alt="Typing SVG" /></a>
+**👩‍🎓 B.Tech Undergraduate** || 🖥️**Tech Enthusiast**||
 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Meta&pause=1000&color=3616BE&width=435&lines=Web+Developer%F0%9F%8C%90;Passionate+about+Coding%F0%9F%92%BB" alt="Typing SVG" /></a>
+ _____________________________________________________________________________________________________________________________________________________________________________________________________
+🔗🗄**Glad to see you here!!** <br> 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**👩‍💻About Me** **:-** <br>
 
+ I am a 3rd year B.Tech student specializing in Computer Science and Engineering (CSE). I have a keen interest in web development and programming , and I am currently building my skills in both frontend and backend technologies . Continuous learning and improving problem-solving skills 🚀.      
+______________________________________________________________________________________________________________________________________________________________________________________________________
 
- 
-
-🗄**Glad to see you here!!** <br> 
-I am a 3rd year B.Tech student speciallzing in Computer Science and Enginnering. I have a keen interest in web development and programming, and i am currently building my skills in both frontend and backend technologies. 
-
-
-**Taking about my Personal Stuffs:-**
-- 👀**Interest:** <br>
-   -Web Developmwnt using java full stack.<br>
---Always curious to learn and grow in the field of Computer Science.
+🔗**Taking about my Personal Stuffs:-**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 👀**Interest:-**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ • Web Developmwnt using java full stack.<br>
+ • Exploring new technologies and frameworks. <br>
+ • Always curious to learn and grow in the field of Computer Science.
   
-- 🌱 **I’m currently learning:**- <br> Java Full-stack.
+🌱 **I’m currently learning:-**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Java Full-stack Development.
 
-- 👯 **I’m looking to collaborate on:** <br> I'm looking to collaborate on Web Development projects and innovative tech ideas.
+👯 **I’m looking to collaborate on:-**
+------------------------------------------------------------------------------------
+ • I'm looking to collaborate on Web Development projects and innovative tech ideas.<br>
+ • Real-world projects that help improve my coding skills. 
   
-- 📫 **Reach me:** <br>Email:pradhanaiswariya1@gmail.com
+📫 **Reach me:-**
+---------------------------------------------
+Email:pradhanaiswariya1@gmail.com
   
-- ⚡**Fun fact:** <br>I Love Tech and Tech Love Me!😁
+ ⚡**Fun fact:-**
+ ---------------------------------------------------------------
+ I Love Tech and Tech Love Me!😁
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
   
-  ## 🏆 GitHub Trophies
+ ## 🏆GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=Aiswariya1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
