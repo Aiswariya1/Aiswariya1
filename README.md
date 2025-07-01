@@ -1,9 +1,15 @@
  -**Hi, I'm Aiswariya Pradhan 👋**
 
- 🎓B.Tech 3rd Year|| Computer Science Student||
+ 🎓B.Tech 3rd Year|| Computer Science Student|| <br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Meta&pause=1000&color=3616BE&width=435&lines=Learning+Web+Development%F0%9F%8C%90;Passionate+about+Coding%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+
+
+ 
 
 🗄**Glad to see you here!!** <br> 
 I am a 3rd year B.Tech student speciallzing in Computer Science and Enginnering. I have a keen interest in web development and programming, and i am currently building my skills in both frontend and backend technologies. 
+
 
 **Taking about my Personal Stuffs:-**
 - 👀**Interest:** <br>
@@ -12,7 +18,7 @@ I am a 3rd year B.Tech student speciallzing in Computer Science and Enginnering.
   
 - 🌱 **I’m currently learning:**- <br> Java Full-stack.
 
-- 👯 **I’m looking to collaborate on:** <br> i'm looking to collaborate on Web Development projects and innovative tech ideas.
+- 👯 **I’m looking to collaborate on:** <br> I'm looking to collaborate on Web Development projects and innovative tech ideas.
   
 - 📫 **Reach me:** <br>Email:pradhanaiswariya1@gmail.com
   
